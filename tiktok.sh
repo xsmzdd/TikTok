@@ -112,11 +112,19 @@ function Goodbye() {
 clear
 
 function ScriptTitle() {
-    echo -e "${Font_SkyBlue}【Tiktok区域检测】${Font_Suffix}"
-    echo -e "${Font_Green} ${Font_Suffix} ${Font_Yellow} ${Font_Suffix}"
     echo ""
-    echo -e " ** 测试时间: $(date)"
+    echo "******************************************"
     echo ""
+    echo -e ""
+    echo -e ""
+    echo -e ""
+    echo -e ""
+    #echo -e "${Font_Yellow}检测脚本当天运行次数：${TodayRunTimes}; 共计运行次数：${TotalRunTimes} ${Font_Suffix}"
+    echo -e ""
+    echo -e ""
+    echo -e ""
+    echo -e ""
+    echo -e ""
 }
 ScriptTitle
 
