@@ -9,11 +9,4 @@ Font_SkyBlue="\033[36m"
 Font_White="\033[37m"
 Font_Suffix="\033[0m"  
   
-echo -e ""
-echo -e "${Font_SkyBlue}【TikTok相关】${Font_Suffix}"
-echo -e "================================================"
-echo -e "================================================"
-echo -e ""
-echo -e ""
-echo -e ""
-echo -e ""
+
